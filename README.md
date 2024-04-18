@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20I'mLeeJaeMin&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Developer%20Profile&descAlignY=51&descAlign=62" width= "1000"/>
 </p>
 
-Hello, I am Jaemin Lee, aiming to become an backend developer in Korea.
+<b>I am Jaemin Lee, aiming to become an backend developer in Korea.</b>
 
 <h2>Connect with me :</h2>
 <div>
