@@ -10,6 +10,7 @@
     <a href="https://www.instagram.com/teeput0821/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
     <a href="https://teeput.tistory.com/category"><img src="https://github.com/TEEPUT/TEEPUT/assets/129711481/29cf59ea-f741-45e5-8542-88c0ac9ce880" width = "48" /></a>
 </div>
+
 <h2>Languages and Tools:</h2>
 
 <h3>Frontend</h3>
@@ -22,6 +23,7 @@
   <img src="https://skillicons.dev/icons?i=bootstrap" />
   <img src="https://skillicons.dev/icons?i=native" />
 </div>
+
 <h3>Backend</h3>
 <div>
   <img src="https://skillicons.dev/icons?i=java" />
@@ -29,13 +31,14 @@
   <img src="https://skillicons.dev/icons?i=flask" />
   <img src="https://skillicons.dev/icons?i=spring" />
 </div>
+
 <h3>Batabase</h3>
 <div>
   <img src="https://github.com/TEEPUT/TEEPUT/assets/129711481/08a88b42-7df8-4d3e-b0ac-0de7ba202894" width = "48"/> 
   <img src="https://skillicons.dev/icons?i=mysql"/>
   <img src="https://skillicons.dev/icons?i=sqlite"/>
-
 </div>
+
 <h3>Devops</h3>
 <div>
   <img src="https://skillicons.dev/icons?i=docker" />
@@ -45,6 +48,7 @@
   <img src="https://skillicons.dev/icons?i=github" />
   <img src="https://skillicons.dev/icons?i=linux" />
 </div>
+
 <h3>Tool</h3>
 <div>
   <img src="https://skillicons.dev/icons?i=vscode" />
@@ -52,6 +56,7 @@
   <img src="https://skillicons.dev/icons?i=ai" />
 </div>
 <br><br><br><br>
+  
 <div align="center">
     <a href="s">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEEPUT&layout=compact&theme=tokyonight&hide=jupyter%20notebook" height="175" />
