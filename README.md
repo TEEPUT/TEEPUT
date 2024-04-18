@@ -54,9 +54,9 @@
 <br><br><br><br>
 <div align="center">
     <a href="s">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEEPUT&layout=compact&theme=tokyonight&hide=jupyter%20notebook" height="200" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEEPUT&layout=compact&theme=tokyonight&hide=jupyter%20notebook" height="150" />
     </a>
     <a href="s">
-      <img src="https://github-readme-stats.vercel.app/api?username=TEEPUT&theme=tokyonight&show_icons=true" height="200" />
+      <img src="https://github-readme-stats.vercel.app/api?username=TEEPUT&theme=tokyonight&show_icons=true" height="150" />
     </a>
 </div>
