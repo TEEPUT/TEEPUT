@@ -6,9 +6,9 @@
 
 <h2>Connect with me :</h2>
 <div>
-    <a href="mailto:ciyi1594@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>&nbsp&nbsp&nbsp&nbsp&nbsp
+    <a href="mailto:ciyi1594@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
     <a href="https://www.instagram.com/teeput0821/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-    <a href="https://teeput.tistory.com/category"><img src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F9931DF3D5B95428108" width = "83" /></a>
+    <a href="https://teeput.tistory.com/category"><img src="https://github.com/TEEPUT/TEEPUT/assets/129711481/29cf59ea-f741-45e5-8542-88c0ac9ce880" width = "48" /></a>
 </div>
 <h2>Languages and Tools:</h2>
 
@@ -31,7 +31,7 @@
 </div>
 <h3>Batabase</h3>
 <div>
-  <img src="https://envisageconnect.com/wp-content/uploads/2022/12/oracle.png" width = "48"/> 
+  <img src="https://github.com/TEEPUT/TEEPUT/assets/129711481/08a88b42-7df8-4d3e-b0ac-0de7ba202894" width = "48"/> 
   <img src="https://skillicons.dev/icons?i=mysql"/>
   <img src="https://skillicons.dev/icons?i=sqlite"/>
 
