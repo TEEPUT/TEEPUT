@@ -42,8 +42,6 @@
   <img src="https://skillicons.dev/icons?i=docker" />
   <img src="https://skillicons.dev/icons?i=aws" />
   <img src="https://skillicons.dev/icons?i=gcp" />
-  <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://skillicons.dev/icons?i=github" />
   <img src="https://skillicons.dev/icons?i=linux" />
 </div>
 
@@ -52,6 +50,8 @@
   <img src="https://skillicons.dev/icons?i=vscode" />
   <img src="https://skillicons.dev/icons?i=ps" />
   <img src="https://skillicons.dev/icons?i=ai" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
 </div>
 <br><br><br><br>
   
