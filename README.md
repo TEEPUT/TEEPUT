@@ -6,9 +6,9 @@
 
 <h2>Connect with me :</h2>
 <div>
-    <a href="mailto:ciyi1594@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-    <a href="https://www.instagram.com/teeput0821/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-    <a href="https://teeput.tistory.com/category"><img src="https://github.com/TEEPUT/TEEPUT/assets/129711481/29cf59ea-f741-45e5-8542-88c0ac9ce880" width = "48" /></a>
+    <a href="mailto:ciyi1594@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" target="_blank"/></a>
+    <a href="https://www.instagram.com/teeput0821/"><img src="https://skillicons.dev/icons?i=instagram" target="_blank"/></a>
+    <a href="https://teeput.tistory.com/category"><img src="https://github.com/TEEPUT/TEEPUT/assets/129711481/29cf59ea-f741-45e5-8542-88c0ac9ce880" width = "48" target="_blank"/></a>
 </div>
 
 <h2>Languages and Tools:</h2>
