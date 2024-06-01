@@ -43,6 +43,10 @@
   <img src="https://skillicons.dev/icons?i=aws" />
   <img src="https://skillicons.dev/icons?i=gcp" />
   <img src="https://skillicons.dev/icons?i=linux" />
+  <img src="https://skillicons.dev/icons?i=jenkins" />
+  <img src="https://skillicons.dev/icons?i=maven" />
+  <img src="https://skillicons.dev/icons?i=gitlab" />
+
 </div>
 
 <h3>Tool</h3>
@@ -52,6 +56,7 @@
   <img src="https://skillicons.dev/icons?i=ai" />
   <img src="https://skillicons.dev/icons?i=git" />
   <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=figma" />
 </div>
 <br><br><br><br>
   
