@@ -45,7 +45,6 @@
   <img src="https://skillicons.dev/icons?i=linux" />
   <img src="https://skillicons.dev/icons?i=jenkins" />
   <img src="https://skillicons.dev/icons?i=maven" />
-  <img src="https://skillicons.dev/icons?i=gitlab" />
 
 </div>
 
