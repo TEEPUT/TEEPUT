@@ -57,13 +57,4 @@
   <img src="https://skillicons.dev/icons?i=github" />
   <img src="https://skillicons.dev/icons?i=figma" />
 </div>
-<br><br><br><br>
-  
-<div align="center">
-    <a href="s">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEEPUT&layout=compact&theme=tokyonight&hide=jupyter%20notebook,less,scss" height="175" />
-    </a>
-    <a href="s">
-      <img src="https://github-readme-stats.vercel.app/api?username=TEEPUT&theme=tokyonight&show_icons=true" height="175" />
-    </a>
-</div>
+
