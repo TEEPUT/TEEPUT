@@ -31,7 +31,7 @@
   <img src="https://skillicons.dev/icons?i=spring" />
 </div>
 
-<h3>Batabase</h3>
+<h3>Database</h3>
 <div>
   <img src="https://github.com/TEEPUT/TEEPUT/assets/129711481/08a88b42-7df8-4d3e-b0ac-0de7ba202894" width = "48"/> 
   <img src="https://skillicons.dev/icons?i=mysql"/>
